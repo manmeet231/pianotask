@@ -71,3 +71,28 @@ body {
   background: #000000;
   transform: translateY(2px);
 }
+
+.recbtn {
+  background-image: url("./buttons/record.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 60px;
+  height: 60px;
+}
+.playbtn {
+  background-image: url("./buttons/play.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 60px;
+  height: 60px;
+}
+.stpbtn {
+  background-image: url("./buttons/pause.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 60px;
+  height: 60px;
+}
